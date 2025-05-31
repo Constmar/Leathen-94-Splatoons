@@ -5,15 +5,15 @@ Thanks to `ToolerOfLight` for which some of these presets have been based or tra
 ## Change Log
 
 ### 31st May 2025
-  + Layouts are now the Boss Names, to reflect naming standards
-  + Added debuff countdown to "Trade Tortoise"
+  + Layouts are now the Boss Names, rasther than the CE name, to reflect correct naming standards
+  + Added debuff countdown to "Trade Tortoise" Ice/Fire/Knockback
   + Adjusted "Mythic Idol" so the telegraphs are drawn a little earlier
   + Adjusted "Command Urn" so the telegraphs are drawn a little earlier
   + Added Fire/Ice tethers and destiation indicators to "Mysterious Mindflayer" _(however these will move based on the casts, you still need to eyeball the desinations)_
   
 
   
-## [International] The Occult Crescent
+## [International] The Occult Crescent - South Horn
 
 ```
 ~Lv2~{"Name":"Cloister Demon","Description":"","Group":"The Occult Crescent - South Horn","ZoneLockH":[1252],"ElementsL":[{"Name":"Ball of Fire","type":1,"radius":22.0,"fillIntensity":0.3,"refActorDataID":18416,"refActorRequireCast":true,"refActorCastId":[41357],"refActorComparisonType":3,"includeRotation":true,"ObjectKinds":[]},{"Name":"Tidal Breath","type":4,"radius":30.0,"coneAngleMin":-90,"coneAngleMax":90,"fillIntensity":0.3,"refActorNPCNameID":13666,"refActorRequireCast":true,"refActorCastId":[41360],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"ObjectKinds":[]}]}
