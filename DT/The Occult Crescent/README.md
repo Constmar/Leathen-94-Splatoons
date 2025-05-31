@@ -2,17 +2,6 @@
 
 Thanks to `ToolerOfLight` for which some of these presets have been based or translated, you can find their JPN presets [Here](https://github.com/ToolerofLight/myfiles/blob/main/Splatoon/%5B7.x%5D%E9%BB%84%E9%87%91%E3%81%AE%E3%83%AC%E3%82%AC%E3%82%B7%E3%83%BC/%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88%E3%82%A2%E3%82%A4%E3%83%AB/%E3%82%AF%E3%83%AC%E3%82%BB%E3%83%B3%E3%83%88%E3%82%A2%E3%82%A4%E3%83%AB%EF%BC%9A%E5%8D%97%E5%BE%81%E7%B7%A8.md)
 
-## Change Log
-
-### 31st May 2025
-  + Layouts are now the Boss Names, rasther than the CE name, to reflect correct naming standards
-  + Added debuff countdown to "Trade Tortoise" Ice/Fire/Knockback
-  + Adjusted "Mythic Idol" so the telegraphs are drawn a little earlier
-  + Adjusted "Command Urn" so the telegraphs are drawn a little earlier
-  + Added Fire/Ice tethers and destiation indicators to "Mysterious Mindflayer" _(however these will move based on the casts, you still need to eyeball the desinations)_
-  
-
-  
 ## [International] The Occult Crescent - South Horn
 
 ```
@@ -33,3 +22,14 @@ Thanks to `ToolerOfLight` for which some of these presets have been based or tra
 ~Lv2~{"Name":"Nymian Petalodus","Description":"","Group":"The Occult Crescent - South Horn","ZoneLockH":[1252],"ElementsL":[{"Name":"Tidal Guillotine","type":1,"radius":20.0,"fillIntensity":0.3,"refActorNPCID":108,"refActorComparisonType":4,"ObjectKinds":[]},{"Name":"Hydrocleave","type":4,"radius":40.0,"coneAngleMin":-30,"coneAngleMax":30,"fillIntensity":0.3,"refActorNPCNameID":13717,"refActorRequireCast":true,"refActorCastId":[41684,43149],"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"ObjectKinds":[]},{"Name":"Pelagic Cleaver","type":4,"offY":5.5,"offZ":1.0,"radius":40.0,"coneAngleMin":-30,"coneAngleMax":30,"color":4294901776,"fillIntensity":0.3,"thicc":3.0,"refActorNPCNameID":13718,"refActorRequireCast":true,"refActorCastId":[41970],"refActorUseCastTime":true,"refActorCastTimeMin":5.0,"refActorCastTimeMax":10.0,"refActorComparisonType":6,"includeHitbox":true,"includeRotation":true,"DistanceMax":13.2,"FillStep":4.0,"ObjectKinds":[]}]}
 ```
 
+## Change Log
+
+### 31st May 2025
+  + Layouts are now the Boss Names, rasther than the CE name, to reflect correct naming standards
+  + Added debuff countdown to "Trade Tortoise" Ice/Fire/Knockback
+  + Adjusted "Mythic Idol" so the telegraphs are drawn a little earlier
+  + Adjusted "Command Urn" so the telegraphs are drawn a little earlier
+  + Added Fire/Ice tethers and destiation indicators to "Mysterious Mindflayer" _(however these will move based on the casts, you still need to eyeball the desinations)_
+  
+
+  
