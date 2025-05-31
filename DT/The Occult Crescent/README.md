@@ -7,11 +7,15 @@ Thanks to `ToolerOfLight` for which some of these presets have been based or tra
 31st May 2025 : Initial Posting, minor updates
 <details>
   + Added debuff countdown to "Trade Tortoise"
-  + Adjusted "Mythic Idol" so the idol telegraphs are drawn a little earlier
-  + Added Fire/Ice tethers and destiation indicators to "Mysterious Mindflayer"
+  
+  Adjusted "Mythic Idol" so the idol telegraphs are drawn a little earlier
+  Added Fire/Ice tethers and destiation indicators to "Mysterious Mindflayer"
   _however these will move based on the casts, you still need to eyeball the desinations_
+  
   </details>
-## [International] 
+  
+## [International] The Occult Crescent
+
 ```
 code
 ```
