@@ -4,10 +4,11 @@ Thanks to `ToolerOfLight` for which some of these presets have been based or tra
 
 ## Change Log
 
-31st May 2025
+### 31st May 2025
   + Layouts are now the Boss Names, to reflect naming standards
   + Added debuff countdown to "Trade Tortoise"
-  + Adjusted "Mythic Idol" so the idol telegraphs are drawn a little earlier
+  + Adjusted "Mythic Idol" so the telegraphs are drawn a little earlier
+  + Adjusted "Command Urn" so the telegraphs are drawn a little earlier
   + Added Fire/Ice tethers and destiation indicators to "Mysterious Mindflayer" _(however these will move based on the casts, you still need to eyeball the desinations)_
   
 
