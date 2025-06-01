@@ -30,6 +30,9 @@ Thanks to `ToolerOfLight` for which some of these presets have been based or tra
 
 ## Change Log
 
+### 1st June 2025 08:00
+  + Additional layout to show the agro range of mobs over level 20
+    
 ### 31st May 2025 14:00
   + Corrected "Tidal Guilotine" to use the JPN element and Model-ID as it was incorrectly showing elsewhere
     
