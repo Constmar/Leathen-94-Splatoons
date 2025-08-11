@@ -1,6 +1,7 @@
 # EX5 - Necron's Embrace
 
-The 4 x AoE mechanic is **NOT** included, as this is not currently possible without a script. The presets will show text on the boss either **>> IN <<** or **<< OUT >>** (as per the Hector guide) 
+The 4 x AoE mechanic is **NOT** included, as this is not currently possible without a script. 
+The presets will show text on the boss either **>> IN <<** or **<< OUT >>** (as per the Hector guide) 
 ```
 ~Lv2~{"Name":"Large Add (Tanks Only)","Group":"EX5 - Necron's Embrace","ZoneLockH":[1296],"JobLockH":[37,32,21,19,3,1],"ElementsL":[{"Name":"Tether","type":1,"radius":0.0,"color":3372169728,"fillIntensity":0.0,"thicc":5.0,"refActorNPCID":14096,"refActorComparisonType":4,"onlyTargetable":true,"onlyVisible":true,"tether":true,"LineEndA":1}]}
 ~Lv2~{"Name":"Circle of Lives","Group":"EX5 - Necron's Embrace","ZoneLockH":[1296],"ElementsL":[{"Name":"Safe Spot","type":1,"radius":3.0,"color":3355508480,"fillIntensity":0.0,"refActorDataID":18864,"refActorRequireCast":true,"refActorCastId":[44600],"refActorUseCastTime":true,"refActorCastTimeMax":9.0,"refActorComparisonType":3,"tether":true,"LineEndA":1}]}
