@@ -1,4 +1,4 @@
-# Wreath Of Snakkes
+# Wreath Of Snakes
 
 Cursekeeper element is based off both Tanks, if other people have agro this preset will show incorrectly.
 
