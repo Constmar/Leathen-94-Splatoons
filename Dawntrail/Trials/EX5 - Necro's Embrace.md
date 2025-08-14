@@ -1,6 +1,6 @@
 # EX5 - Necron's Embrace
 
-NOTE: If you are using the "Relentless Reaping" script from the main repository, you may want to disable **Relentless Reaping - Telegraph** to avoid any overlaps.
+NOTE: If you are using the "Relentless Reaping" script from the main repository, you may want to disable **"Relentless Reaping - Telegraphs"** to avoid any overlaps.
 
 
 ```
