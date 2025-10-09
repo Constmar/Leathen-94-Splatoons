@@ -29,18 +29,18 @@ NOTE: If you are using the "Relentless Reaping" script from the main repository,
 
 ## Change Log
 
-### 16th August 2015
+### 16th August 2025
   + Added telegraphs for the DPS Solo Phase (should work with other roles)
   + Added back the IN/OUT green text, as this is usefull for the circle of lives phase
   + Added "Spawn Point" indicators for the hands and MM towers
   - Removed The Aetherbright Telegraphs (as those conflict with the new script)
 
-### 14th August 2015
+### 14th August 2025
   + Adjusted "Cold Grip" timings to be more accurate
   + Adjusted "Circle of Lives" tether to be marginaly thicker
   + Added a translated version of "Relentless Reaping" from [Tooler of Lights](https://github.com/ToolerofLight/myfiles/tree/main) presets, Thanks.
 
 
-### 11th August 2015
+### 11th August 2025
   + Initial Release
     
