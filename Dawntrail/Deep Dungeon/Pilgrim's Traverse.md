@@ -29,7 +29,7 @@
 + Updated "Accursed Horde" to work on floors 10-99
 + 60 Boss (Some later mechanics still needed)
 + 70 Boss (Some later mechanics still needed)
-+ 80 Boss (Some later mechanics still needed)
++ 80 Boss
   
 ### 8th October 2025 
   + 10,20,30 Boss
