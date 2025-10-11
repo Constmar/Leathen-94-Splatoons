@@ -1,7 +1,5 @@
 # Pilgrims Traverse
 
-*** WORK IN PROGRESS ***
-
 ## [ENG] Accursed Hoard Tether
 ```
 ~Lv2~{"Name":"Treasure","Group":"Pilgrims Traverse","ZoneLockH":[1283,1281,1282,1284,1285,1287,1286,1288,1289,1290,1280],"UseTriggers":true,"Triggers":[{"Type":3,"Match":"Your party obtains a piece of the Accursed Hoard"},{"Type":2,"Match":"You sense the Accursed Hoard calling you"}],"ElementsL":[{"Name":"Buried treasure","type":1,"radius":0.0,"color":3372217600,"Filled":false,"fillIntensity":0.5,"thicc":4.0,"overlayText":"Burried Treasure","refActorNPCID":2007542,"refActorComparisonType":4,"tether":true}]}
