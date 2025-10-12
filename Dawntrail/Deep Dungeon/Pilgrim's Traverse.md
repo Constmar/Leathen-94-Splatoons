@@ -47,7 +47,7 @@ Note : Some left/right or in/out telegraphs may complete their cycle even if the
 ### 12th October 2015
 + Adjusted 40 boss (as the spawn order can change)
 + Additional 60-69 one-shot telegraph added
-+ L99/100 Boss - Added a red "X" on your character if you have the wrong light/dark for your current target
++ L99/100 Boss - Added a red "X" on your character if you have the wrong light/dark buff for your current target
 
 ### 11th October 2025 @ 21:55
 + Added 50-100 one-shot mobs
