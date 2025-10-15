@@ -47,7 +47,7 @@ Note : Some left/right or in/out telegraphs may complete their cycle even if the
 ## Change Log
 
 ### 15th October 2015
-+ Adjusted 100 boss, shows a green 'safe side' for exoflares now
++ Adjusted 99/100 boss, shows a green 'safe side' for exoflares now
   
 ### 12th October 2015
 + Adjusted 40 boss (as the spawn order can change)
